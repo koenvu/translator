@@ -1,4 +1,6 @@
 {
+    "name": "koenvu/translator",
+    "description": "Laravel Translator package",
     "require-dev": {
         "phpunit/phpunit": "^5.7"
     },
